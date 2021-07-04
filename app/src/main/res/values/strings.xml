@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pocket BMI</string>
+    <string name="str_weight">Weight in KG</string>
+    <string name="str_height">Height in Metre</string>
+    <string name="str_button">calculate</string>
+    <string name="str_image_desc">Appropriate Image according to bmi</string>
+</resources>
